@@ -13,12 +13,6 @@ public class MyClass {
 	
 	
 	System.out.println("fdfdfdfddfffff");
-	
-	Class2 class1 = new Class2();
-	
-	System.out.println(class1);
-	
-	
     }
 
 }
