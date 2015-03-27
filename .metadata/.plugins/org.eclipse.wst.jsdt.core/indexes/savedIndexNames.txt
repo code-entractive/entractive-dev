@@ -1,6 +1,0 @@
-INDEX VERSION 1.122+F:\Music\music\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1811675810.index
-2802337924.index
-2239254546.index
-559670790.index
-1153757571.index
